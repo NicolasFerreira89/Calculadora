@@ -1,0 +1,7 @@
+C:\Users\allan.ssilva4\source\repos\CalculadoraTI14T\CalculadoraTI14T\bin\Debug\CalculadoraTI14T.exe.config
+C:\Users\allan.ssilva4\source\repos\CalculadoraTI14T\CalculadoraTI14T\bin\Debug\CalculadoraTI14T.exe
+C:\Users\allan.ssilva4\source\repos\CalculadoraTI14T\CalculadoraTI14T\bin\Debug\CalculadoraTI14T.pdb
+C:\Users\allan.ssilva4\source\repos\CalculadoraTI14T\CalculadoraTI14T\obj\Debug\CalculadoraTI14T.csproj.AssemblyReference.cache
+C:\Users\allan.ssilva4\source\repos\CalculadoraTI14T\CalculadoraTI14T\obj\Debug\CalculadoraTI14T.csproj.CoreCompileInputs.cache
+C:\Users\allan.ssilva4\source\repos\CalculadoraTI14T\CalculadoraTI14T\obj\Debug\CalculadoraTI14T.exe
+C:\Users\allan.ssilva4\source\repos\CalculadoraTI14T\CalculadoraTI14T\obj\Debug\CalculadoraTI14T.pdb
